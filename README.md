@@ -1,6 +1,6 @@
 
 Model 2:50 PM
-# SOP Backup Daemon (Real-time Directory Synchronizer)
+# Backup Daemon (Real-time Directory Synchronizer)
 
 ### 📌 Project Overview
 SOP Backup is a robust, interactive Linux background service (daemon-like) written in **C17**. It allows users to continuously monitor a source directory and mirror its changes to one or multiple destination directories in real-time.
